@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import App from './components/app';
 
 var HelloWorld = (name) => {
-    return "Hello sdsd" + name;
+    return "Hello sds121" + name;
 }
 
 render(
