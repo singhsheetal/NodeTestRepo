@@ -3,7 +3,7 @@ import React from 'react';
 class HomePage extends React.Component {
     render() {
         return (<div>
-            Home Page same77
+            Home Page sameto do sa
        </div>
         );
     }
